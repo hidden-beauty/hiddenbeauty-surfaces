@@ -9,6 +9,7 @@
     "id": "694420",
     "make_solid_args": {
         "code_h_offset": -12,
+        "url_v_offset": -2,
         "flip_walls": false
     },
     "other": {},

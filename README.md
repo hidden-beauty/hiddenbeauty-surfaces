@@ -18,7 +18,7 @@ Disclaimer
 ==========
 
 This repository contains the source surfaces/solids that are shown on 
-https://hiddenbeauty.cg . This web site and the Hidden Beauty project aims to 
+https://hiddenbeauty.ch . This web site and the Hidden Beauty project aims to 
 show the world what humans look like and that we are all beautiful.
 
 The models that are contained in this repository include 3D models of human
